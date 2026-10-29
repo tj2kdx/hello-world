@@ -1,4 +1,4 @@
 # hello-world
-GitHub Hello World tutorial for CSCI 1302
+GitHub Hello World tutorial for Programming Principles 2
 
-Hi, I'm Tecovian! I'm a CSCI 1302 student at Georgia Southern learning Java, JavaFX, and Git/GitHub.
+ I'm Tecovian Chapman a student at Georgia Southern learning programming
